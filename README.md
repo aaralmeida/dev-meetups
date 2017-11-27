@@ -1,6 +1,6 @@
 # meetup-vuetify
 
-> Um sistemas para cadastrar e gerenciar encontros de dev
+> Um sistema para cadastrar e gerenciar encontros de dev
 
 ## Build Setup
 
